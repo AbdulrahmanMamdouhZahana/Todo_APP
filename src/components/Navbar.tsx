@@ -1,7 +1,7 @@
 import { NavLink } from "react-router";
 import "./Style/Navbar.css";
 import toast from "react-hot-toast";
-import { CheckSquare, LogOut, User, LogIn, UserPlus, ListTodo } from "lucide-react";
+import {  LogOut, User, LogIn, UserPlus, ListTodo } from "lucide-react";
 
 const getUserData = () => {
     try {

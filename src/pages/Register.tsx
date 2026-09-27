@@ -11,7 +11,7 @@ import toast from 'react-hot-toast';
 import { useState } from "react";
 import type { AxiosError } from "axios";
 import type { ErrorResponse } from "../components/interfaces";
-import { Sparkles, ArrowRight } from "lucide-react";
+import {  ArrowRight } from "lucide-react";
 
 interface IFormInput {
     username: string;

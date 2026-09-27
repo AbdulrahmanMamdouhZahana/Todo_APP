@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { User, Mail, ShieldCheck, ArrowRight, ListTodo, LogOut } from "lucide-react";
+import {  Mail,  ArrowRight, ListTodo, LogOut } from "lucide-react";
 import Button from "../components/UI/Button";
 import toast from "react-hot-toast";
 

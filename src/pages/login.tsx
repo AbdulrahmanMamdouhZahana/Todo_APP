@@ -11,7 +11,7 @@ import { Link } from "react-router-dom";
 import toast from "react-hot-toast";
 import type { AxiosError } from "axios";
 import type { ErrorResponse } from "../components/interfaces";
-import { Lock, ArrowRight } from "lucide-react";
+import {  ArrowRight } from "lucide-react";
 
 interface IFormInput {
     identifier: string;
